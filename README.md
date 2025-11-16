@@ -8,40 +8,35 @@
 
 ## Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![SQL](https://img.shields.io/badge/SQL-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-blue?logo=sqlite)
 
 ## API Testing
-![Postman](https://img.shields.io/badge/Postman-orange)
-![Swagger](https://img.shields.io/badge/Swagger-green)
+
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-green?logo=swagger)
 ![REST](https://img.shields.io/badge/REST-white)
 
-
 ## CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-white)
-![Jenkins](https://img.shields.io/badge/Jenkins-white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-white?logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-white?logo=jenkins)
 
 ## Test documentation
 
-![Jira](https://img.shields.io/badge/Jira-blue)
-![Confluence](https://img.shields.io/badge/Confluence-blue)
+![Jira](https://img.shields.io/badge/Jira-blue?logo=jira)
+![Confluence](https://img.shields.io/badge/Confluence-blue?logo=confluence)
 ![Checklists](https://img.shields.io/badge/Checklists-green)
 ![Test cases](https://img.shields.io/badge/Test_cases-green)
 
 ## Autotesting
 
 ![Playwright](https://img.shields.io/badge/Playwright-green)
-![Cypress](https://img.shields.io/badge/Cypress-green)
-![Selenium](https://img.shields.io/badge/Selenium-orange)
-![Jest](https://img.shields.io/badge/Jest-blue)
+![Cypress](https://img.shields.io/badge/Cypress-green?logo=cypress)
+![Selenium](https://img.shields.io/badge/Selenium-orange?logo=selenium)
+![Jest](https://img.shields.io/badge/Jest-blue?logo=jest)
 
+## Fallow me
 
-
-
-
-
-
-
-
-Fallow me (lets took)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=)](https://www.linkedin.com/in/alexander-samsonov-60239a235/)

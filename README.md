@@ -29,6 +29,15 @@
 ![Checklists](https://img.shields.io/badge/Checklists-green)
 ![Test cases](https://img.shields.io/badge/Test_cases-green)
 
+## Autotesting
+
+![Playwright](https://img.shields.io/badge/Playwright-green)
+![Cypress](https://img.shields.io/badge/Cypress-green)
+![Selenium](https://img.shields.io/badge/Selenium-orange)
+![Jest](https://img.shields.io/badge/Jest-blue)
+
+
+
 
 
 

@@ -30,6 +30,12 @@
 
 ## Technologies Back
 
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node)
+![Express.js](https://img.shields.io/badge/Express-green?logo=Express)
+![Nest.js](https://img.shields.io/badge/Nest-blue?logo=Nest.js)
+![JWT](https://img.shields.io/badge/JWT-yellow?logo=JWT)
+![Prisma](https://img.shields.io/badge/Prisma-blue?logo=Prisma)
+
 
 ## API Testing
 

@@ -1,10 +1,10 @@
 ![Header](https://github.com/namiron/namiron/blob/main/assets/my_name.png)
 
-##My name is Alexander. I'm a Frontend Engineer with over four years of experience building scalable web and mobile applications using React, TypeScript, and modern JavaScript. My experience includes frontend architecture, reusable UI components, REST API integration, performance optimization, and full-stack development with Node.js and Express. I also have experience developing mobile applications with React Native.
+## My name is Alexander. I'm a Frontend Engineer with over four years of experience building scalable web and mobile applications using React, TypeScript, and modern JavaScript. My experience includes frontend architecture, reusable UI components, REST API integration, performance optimization, and full-stack development with Node.js and Express. I also have experience developing mobile applications with React Native.
 
-##I build reliable, maintainable, and high-performance applications that deliver a great user experience. I enjoy working across the entire development lifecycle, collaborating with product managers, designers, backend engineers, and QA teams to deliver production-ready features. I actively use modern AI-assisted development tools to improve development speed while maintaining high code quality.
+## I build reliable, maintainable, and high-performance applications that deliver a great user experience. I enjoy working across the entire development lifecycle, collaborating with product managers, designers, backend engineers, and QA teams to deliver production-ready features. I actively use modern AI-assisted development tools to improve development speed while maintaining high code quality.
 
-##I am passionate about solving complex engineering challenges, improving application architecture and performance, and continuously learning new technologies. My goal is to build scalable products that are reliable, intuitive, and easy to maintain.
+## I am passionate about solving complex engineering challenges, improving application architecture and performance, and continuously learning new technologies. My goal is to build scalable products that are reliable, intuitive, and easy to maintain.
 
 
 ## Programming Languages
@@ -15,13 +15,20 @@
 ![Postman](https://img.shields.io/badge/Postman-green?logo=Postman)
 
 
-## Technologies
+## Technologies Front
 
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 ![React-Native](https://img.shields.io/badge/React-blue?logo=react)
 ![Redux](https://img.shields.io/badge/Redux-violet?logo=Redux)
+![Next.js](https://img.shields.io/badge/Next-blue?logo=Next.js)
+![HTML](https://img.shields.io/badge/HTML-red?logo=HTML)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=CSS)
+![SCSS](https://img.shields.io/badge/SCSS-pink?logo=SCSS)
 
 
+
+
+## Technologies Back
 
 
 ## API Testing

@@ -25,9 +25,6 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=CSS)
 ![SCSS](https://img.shields.io/badge/SCSS-pink?logo=SCSS)
 
-
-
-
 ## Technologies Back
 
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node)
@@ -35,6 +32,12 @@
 ![Nest.js](https://img.shields.io/badge/Nest-blue?logo=Nest.js)
 ![JWT](https://img.shields.io/badge/JWT-yellow?logo=JWT)
 ![Prisma](https://img.shields.io/badge/Prisma-blue?logo=Prisma)
+
+
+## Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-white?logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=PostgreSQL)
+![Redus](https://img.shields.io/badge/redus-red?logo=Redus)
 
 
 ## API Testing

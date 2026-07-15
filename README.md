@@ -12,6 +12,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=sqlite)
+![Postman](https://img.shields.io/badge/Postman-green?logo=Postman)
+
+
+## Technologies
+
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![React-Native](https://img.shields.io/badge/React-blue?logo=react)
+![Redux](https://img.shields.io/badge/Redux-violet?logo=Redux)
+
+
+
 
 ## API Testing
 

@@ -1,10 +1,11 @@
 ![Header](https://github.com/namiron/namiron/blob/main/assets/my_name.png)
 
-## My name is Alexander. I'm a successful and promising QA engineer with four years of experience in automated and manual testing. My experience includes designing test architectures, writing reliable automated tests, analyzing requirements, creating test documentation, and ensuring high product quality at all stages of development.
+##My name is Alexander. I'm a Frontend Engineer with over four years of experience building scalable web and mobile applications using React, TypeScript, and modern JavaScript. My experience includes frontend architecture, reusable UI components, REST API integration, performance optimization, and full-stack development with Node.js and Express. I also have experience developing mobile applications with React Native.
 
-## I create stable, scalable, and easily maintainable testing solutions that accelerate releases and minimize defects in production. I'm skilled at identifying critical issues, thinking as both a user and an engineer, and working closely with developers, analysts, and DevOps.
+##I build reliable, maintainable, and high-performance applications that deliver a great user experience. I enjoy working across the entire development lifecycle, collaborating with product managers, designers, backend engineers, and QA teams to deliver production-ready features. I actively use modern AI-assisted development tools to improve development speed while maintaining high code quality.
 
-## I strive to ensure that product quality is not just a development step, but a fundamental part of the entire system. I am willing to work on complex problems, improve processes, and increase product stability.
+##I am passionate about solving complex engineering challenges, improving application architecture and performance, and continuously learning new technologies. My goal is to build scalable products that are reliable, intuitive, and easy to maintain.
+
 
 ## Programming Languages
 

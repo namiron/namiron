@@ -11,11 +11,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=sqlite)
+![Python](https://img.shields.io/badge/Python-green?logo=Python)
+
 
 ## Frontend Technologies
 
 ![React](https://img.shields.io/badge/React-blue?logo=react)
-![React-Native](https://img.shields.io/badge/React-blue?logo=react)
 ![Redux](https://img.shields.io/badge/Redux-violet?logo=Redux)
 ![Next.js](https://img.shields.io/badge/Next-blue?logo=Next.js)
 ![HTML](https://img.shields.io/badge/HTML-red?logo=HTML)
@@ -62,6 +63,8 @@
 ![Cypress](https://img.shields.io/badge/Cypress-green?logo=cypress)
 ![Selenium](https://img.shields.io/badge/Selenium-orange?logo=selenium)
 ![Jest](https://img.shields.io/badge/Jest-blue?logo=jest)
+![Pytest](https://img.shields.io/badge/Pytest-green?logo=Pytest)
+
 
 ## Connect with Me
 

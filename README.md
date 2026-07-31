@@ -1,11 +1,10 @@
 ![Header](https://github.com/namiron/namiron/blob/main/assets/my_name.png)
 
-## I'm Alexander,. I'm a Frontend Engineer with over four years of experience building scalable web and mobile applications using React, TypeScript, and modern JavaScript. My experience includes frontend architecture, reusable UI components, REST API integration, performance optimization, and full-stack development with Node.js and Express. I also have experience developing mobile applications with React Native.
+## I'm Alexander. I'm a QA Engineer with a strong software development background and over four years of experience working with modern web applications. My experience includes functional testing, regression testing, API validation, test automation, frontend architecture, REST API integration, and CI/CD workflows.
 
-## I build reliable, maintainable, and high-performance applications that deliver a great user experience. I enjoy working across the entire development lifecycle, collaborating with product managers, designers, backend engineers, and QA teams to deliver production-ready features. I actively use modern AI-assisted development tools to improve development speed while maintaining high code quality.
+## I focus on improving software quality by designing effective test strategies, identifying critical issues, and ensuring reliable product delivery. My development background with React, TypeScript, JavaScript, and Node.js allows me to understand complex systems, analyze technical problems, and collaborate efficiently with developers, product managers, designers, and QA teams.
 
-## I am passionate about solving complex engineering challenges, improving application architecture and performance, and continuously learning new technologies. My goal is to build scalable products that are reliable, intuitive, and easy to maintain.
-
+## I am passionate about building reliable software, improving testing processes, and finding efficient solutions to complex quality challenges. I continuously expand my expertise in automation testing, modern QA practices, and engineering tools to help teams deliver stable and high-quality products.
 
 ## Programming Languages
 
